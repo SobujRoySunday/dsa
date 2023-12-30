@@ -18,6 +18,7 @@ This repository contains implementations of common data structures and algorithm
 2. Explore the folders:
 
    - `01-maths`: Fundamental maths problems to build the logic.
+   - `02-basic-recursion`: Fundamental recursion concepts to start solving easy problems.
 
 3. Use the implementations:
    - Open the desired folder.
@@ -28,7 +29,3 @@ This repository contains implementations of common data structures and algorithm
 ## Contributing
 
 Contributions are welcome! If you want to add new implementations or improve existing ones, create a request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
