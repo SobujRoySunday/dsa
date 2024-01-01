@@ -20,6 +20,7 @@ This repository contains implementations of common data structures and algorithm
    - `01-maths`: Fundamental maths problems to build the logic.
    - `02-basic-recursion`: Fundamental recursion concepts to start solving easy problems.
    - `03-basic-hashing`: Fundamental hashing concepts to find frequency of elements.
+   - `04-sorting`: Fundamental sorting concepts.
 
 3. Use the implementations:
    - Open the desired folder.
