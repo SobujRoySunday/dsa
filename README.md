@@ -23,6 +23,8 @@ This repository contains implementations of common data structures and algorithm
    - `04-sorting`: Fundamental sorting concepts.
    - `05-array`: All of the array problems
      - `01-easy`: Difficulty level easy
+     - `02-medium`: Difficulty level medium
+     - `03-hard`: Difficulty level hard
 
 3. Use the implementations:
    - Open the desired folder.
